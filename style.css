@@ -1,0 +1,36 @@
+    body{
+        background-color: cornsilk;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: aquamarine;
+        margin: 40px;
+    }
+
+    h1, h2 {
+        color: blue;
+    }
+
+    a {
+        color: rgb(5, 18, 29);
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    ul, ol {
+        margin-left: 20px;
+    }
+
+    img {
+        width: 150px;
+        height: auto;
+        margin: 10px 0;
+    }
+
+    span {
+        font-weight: bold;
+    }
+
+
+
